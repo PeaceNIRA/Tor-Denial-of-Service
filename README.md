@@ -5,5 +5,5 @@ yes i am aware of it opening multiple processes for each request, this increases
 with extreme ease you can add a timer to reset the proccesses/kill them and start over.
 
 requirements:
-termcolor
+Pysocks
 requests
