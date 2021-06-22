@@ -6,4 +6,5 @@ with extreme ease you can add a timer to reset the proccesses/kill them and star
 
 requirements:
 Pysocks
+
 requests
