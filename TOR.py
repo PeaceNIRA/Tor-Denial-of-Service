@@ -30,6 +30,7 @@ def main2(url):
   counter = 0
   while True:
       try:
+        #dont even question it, i know how stupid this looks.
         for i in range(1000000000000):
              b = session.get(url).text
              session.get(url)
